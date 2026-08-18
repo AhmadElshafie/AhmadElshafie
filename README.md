@@ -7,4 +7,4 @@ I'm a fresh ECE (Electronics & Communications Engineering) graduate currently di
 👯 I'm looking to collaborate on: open-source DevOps tooling
 🤔 I'm looking for help with: landing a DevOps / Cloud role
 💬 Ask me about: AWS architecture, cloud fundamentals, DevOps tooling (Docker/Linux), or my ECE background
-📫 How to reach me:  ahmedashrafalshafie@gmail.com [LinkjedIn](https://www.linkedin.com/in/ahmadelshafie/)
+📫 How to reach me:  ahmedashrafalshafie@gmail.com [LinkedIn](https://www.linkedin.com/in/ahmadelshafie/)
